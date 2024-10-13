@@ -12,6 +12,8 @@ Here is a quick description of what each notebook covers:
 - `04_Classifiers_Part_01.ipynb`: Implementing k-Nearest Neighbors and Logistic Regression.
 - `05_Classifiers_Part_02_outlined.ipynb`: Building a Decision Tree Classifier from an outline.
 - `05_Classifiers_Part_02_scratch.ipynb`: Building a Decision Tree Classifier from scratch.
+- `05_Classifiers_Part_02_answer_key.ipynb`: Solution notebook to Decision Tree Classifier lab.
+- `06_Classifiers_Part_03.ipynb`: Conducting binary and multi-class classification using Support Vector Machines.
 
 ## Contributions
 Feel free to submit a pull request for any issues or improvements! \
