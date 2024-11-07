@@ -14,6 +14,10 @@ Here is a quick description of what each notebook covers:
 - `05_Classifiers_Part_02_scratch.ipynb`: Building a Decision Tree Classifier from scratch.
 - `05_Classifiers_Part_02_answer_key.ipynb`: Solution notebook to Decision Tree Classifier lab.
 - `06_Classifiers_Part_03.ipynb`: Conducting binary and multi-class classification using Support Vector Machines.
+- `07_Random_Forests.ipynb`: Training a popular ensemble model, a Random Forest.
+- `08_Clustering.ipynb`: Practicing k-Means and Hierarchical Clustering.
+- `09_Neural_Networks.ipynb`: Build a simple 1-layer neural network from scratch, implementing feedforward processes and backpropagation.
+- `10_Neural_Networks_Gradient_Descent.ipynb`: Expand upon the code from `09_Neural_Networks.ipynb` to implement variations of gradient descent (stochastic, batch, and mini-batch).
 
 ## Contributions
 Feel free to submit a pull request for any issues or improvements! \
